@@ -68,13 +68,13 @@ request({
             var vitdDesc = jsonVitd.scores[vitdScore];
             var protDesc = jsonProt.scores[protScore];
 
-          //  console.log(jsonCarb);
-          //  console.log(jsonProt);  //terms of serum level
-            console.log(carbDesc);
-            console.log(vitaDesc);
-            console.log(vitbDesc);
-            console.log(vitdDesc);
-            console.log(protDesc);
+            // console.log(jsonCarb);
+            // console.log(jsonProt); //terms of serum level
+            // console.log(carbDesc);
+            // console.log(vitaDesc);
+            // console.log(vitbDesc);
+            // console.log(vitdDesc);
+            // console.log(protDesc);
         });
       });
     });
